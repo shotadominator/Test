@@ -1,13 +1,6 @@
 {
   "groups": [
     {
-      "id": "resolution",
-      "name": "Resolution",
-      "color": "#00000000",
-      "borderColor": "#00000000",
-      "isExpanded": true
-    },
-    {
       "id": "gq",
       "name": "Quality",
       "isExpanded": true,
@@ -44,58 +37,6 @@
     }
   ],
   "filters": [
-    {
-      "id": "4k-ultra-hd",
-      "groupId": "resolution",
-      "name": "4K Ultra HD",
-      "pattern": "(?i)\\b(4k|2160p|uhd|ultra\\s*hd)\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/4k_ultra_hd.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
-      "id": "1080p-full-hd",
-      "groupId": "resolution",
-      "name": "1080p Full HD",
-      "pattern": "(?i)\\b(1080p|fhd|full\\s*hd)\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/1080p_full_hd.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
-      "id": "720p-hd",
-      "groupId": "resolution",
-      "name": "720p HD",
-      "pattern": "(?i)\\b720p\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/720p_hd.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
-      "id": "480p-sd",
-      "groupId": "resolution",
-      "name": "480p SD",
-      "pattern": "(?i)\\b480p\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/480p_sd.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled",
-      "isEnabled": true,
-      "type": "filter"
-    },
     {
       "id": "webdl",
       "groupId": "gq",
