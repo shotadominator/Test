@@ -1,6 +1,13 @@
 {
   "groups": [
     {
+      "borderColor": "#FF858283",
+      "color": "#FFBE01",
+      "id": "gr",
+      "isExpanded": true,
+      "name": "Resolution"
+    },
+    {
       "borderColor": "#FF00FF37",
       "color": "#27C04F",
       "id": "gq",
@@ -30,6 +37,45 @@
     }
   ],
   "filters": [
+    {
+      "borderColor": "#FF858283",
+      "groupId": "gr",
+      "id": "r-4k",
+      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/4k.png",
+      "isEnabled": true,
+      "name": "4K",
+      "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
+      "tagColor": "#33FFFFFF",
+      "tagStyle": "filled",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#FF858283",
+      "groupId": "gr",
+      "id": "r-1080",
+      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/1080p.png",
+      "isEnabled": true,
+      "name": "1080p",
+      "pattern": "(?i)\\b1080[pi]?\\b",
+      "tagColor": "#33FFFFFF",
+      "tagStyle": "filled",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#FF858283",
+      "groupId": "gr",
+      "id": "r-720",
+      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/720p.png",
+      "isEnabled": true,
+      "name": "720p",
+      "pattern": "(?i)\\b720[pi]?\\b",
+      "tagColor": "#33FFFFFF",
+      "tagStyle": "filled",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
     {
       "borderColor": "#FF858283",
       "groupId": "gq",
