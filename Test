@@ -168,19 +168,6 @@
       "type": "filter"
     },
     {
-      "id": "imax-enhanced",
-      "groupId": "video-tech",
-      "name": "IMAX Enhanced",
-      "pattern": "(?i)\\b(imax[\\s._-]*enhanced)\\b",
-      "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/imax_enhanced.png",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#00000000",
-      "tagStyle": "filled",
-      "isEnabled": true,
-      "type": "filter"
-    },
-    {
       "id": "imax",
       "groupId": "video-tech",
       "name": "IMAX",
