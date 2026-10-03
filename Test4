@@ -16,7 +16,7 @@
       "isEnabled": true,
       "pattern": "(?i)(?:^(?=[\\s\\S]*⁣‌‌‍‌‌‌‍‌⁤)[\\s\\S]*$|^(?![\\s\\S]*(?:⁣‌‌‍‌‌‌‍‌⁤|⁣‌‌‍‌‌‌‍‍⁤|⁣‌‌‍‌‌‍‌‌⁤|⁣‌‌‍‌‌‍‌‍⁤|⁣‌‌‍‌‌‍‍‌⁤|⁣‌‌‍‌‌‍‍‍⁤|⁣‌‌‍‌‍‌‌‌⁤|⁣‌‌‍‌‍‌‌‍⁤|⁣‌‌‍‌‍‌‍‌⁤|⁣‌‌‍‌‍‌‍‍⁤|⁣‌‌‍‌‍‍‌‌⁤|⁣‌‌‍‌‍‍‌‍⁤))[\\s\\S]*(?:(?<![a-z0-9])(?:(?:bd|uhd)[-_. ]?)?remux(?=$|[^a-z0-9])))",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/quality/bluray.png?rev=5557b3733355",
-      "tagColor": "#181818",
+      "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "filled",
