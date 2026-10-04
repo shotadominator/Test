@@ -148,10 +148,10 @@
       "isEnabled": true,
       "pattern": "(?i)(?<![\\s\\S])(?=[\\s\\S]*?(?:(?<![A-Za-z0-9])imax[-_. ]?enhanced(?![A-Za-z0-9])))",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/imax/imax.png?rev=08a3b65b297b",
-      "tagColor": "#000000",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
       "textColor": "#FFFFFF",
-      "borderColor": "#FFFFFF",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "type": "filter"
     },
     {
@@ -161,10 +161,10 @@
       "isEnabled": true,
       "pattern": "(?i)(?<![\\s\\S])(?=[\\s\\S]*?(?:(?<![A-Za-z0-9])imax(?![A-Za-z0-9])))(?![\\s\\S]*(?:(?<![A-Za-z0-9])imax[-_. ]?enhanced(?![A-Za-z0-9])))",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/imax/imax.png?rev=1f4e53a6250f",
-      "tagColor": "#000000",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
       "textColor": "#FFFFFF",
-      "borderColor": "#FFFFFF",
-      "tagStyle": "bordered",
+      "tagStyle": "filled",
       "type": "filter"
     },
     {
