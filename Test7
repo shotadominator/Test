@@ -193,7 +193,7 @@
       "groupId": "gv",
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‍‌⁤)(?!.*(?:⁣‌‌‌‌‌‌‌‍⁤))",
-      "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/visual/hdr.png?rev=8717fdea5747",
+      "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/visual/hdr10-plus.png?rev=8717fdea5747",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
