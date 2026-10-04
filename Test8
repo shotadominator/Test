@@ -175,19 +175,6 @@
       "type": "filter"
     },
     {
-      "id": "a-dv",
-      "name": "DV",
-      "groupId": "gv",
-      "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣‌‌‌‌‌‌‌‍⁤)(?!.*(?:⁣‌‌‌‌‌‌‍‌⁤|⁣‌‌‌‌‌‌‍‍⁤|⁣‌‌‌‌‌‍‌‌⁤))",
-      "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/visual/dolby-vision.png?rev=3b906b4d0f7c",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#FFFFFF",
-      "tagStyle": "filled",
-      "type": "filter"
-    },
-    {
       "id": "v-dv-hdr10p",
       "name": "DV · HDR10+",
       "groupId": "gv",
