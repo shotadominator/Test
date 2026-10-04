@@ -259,6 +259,19 @@
       "type": "filter"
     },
     {
+      "id": "ch-71",
+      "name": "7.1",
+      "groupId": "gc",
+      "isEnabled": true,
+      "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‍‌‍⁤)",
+      "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/channels/7-1.png?rev=597727f7cb7b",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "textColor": "#FFFFFF",
+      "tagStyle": "filled",
+      "type": "filter"
+    },
+    {
       "id": "ch-61",
       "name": "6.1",
       "groupId": "gc",
@@ -434,19 +447,6 @@
       "isEnabled": true,
       "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‌‍‍⁤)(?!.*(?:⁣‌‌‌‌‍‌‌‍⁤|⁣‌‌‌‍‌‌‌‍⁤|⁣‌‌‌‌‍‌‍‌⁤|⁣‌‌‌‌‍‌‍‍⁤|⁣‌‌‌‌‍‍‌‌⁤|⁣‌‌‌‌‍‍‌‍⁤|⁣‌‌‌‌‍‍‍‌⁤|⁣‌‌‌‌‍‍‍‍⁤|⁣‌‌‌‍‌‌‌‌⁤|⁣‌‌‌‍‌‍‌‌⁤|⁣‌‌‌‍‌‌‍‌⁤))",
       "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/audio/aac.png?rev=194f7ad171f8",
-      "tagColor": "#00000000",
-      "borderColor": "#00000000",
-      "textColor": "#FFFFFF",
-      "tagStyle": "filled",
-      "type": "filter"
-    },
-    {
-      "id": "ch-71",
-      "name": "7.1",
-      "groupId": "gc",
-      "isEnabled": true,
-      "pattern": "(?s)^(?=.*⁣‌‌‌‍‌‍‌‍⁤)",
-      "imageURL": "https://raw.githubusercontent.com/kingsizew/badges/main/badge-images/channels/7-1.png?rev=597727f7cb7b",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
